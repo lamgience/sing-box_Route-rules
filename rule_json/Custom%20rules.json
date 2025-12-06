@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "jable.tv",
+        "javbus.com",
+        "javdb.com",
+        "javlibrary.com",
+        "netflav1.com",
+        "netflav5.com",
+        "t66y.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".jable.tv",
+        ".javbus.com",
+        ".javdb.com",
+        ".netflav1.com",
+        ".netflav5.com",
+        ".t66y.com"
+      ]
+    }
+  ],
+  "version": 1
+}

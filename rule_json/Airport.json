@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ncloud.info"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".ncloud.info"
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cgown.com",
+        "cgzy.net",
+        "lookae.com",
+        "xinpianchang.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".cgown.com",
+        ".cgzy.net",
+        ".lookae.com",
+        ".xinpianchang.com"
+      ]
+    }
+  ],
+  "version": 1
+}

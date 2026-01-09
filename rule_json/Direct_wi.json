@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "app.tapnow.ai",
         "cgown.com",
         "cgzy.net",
         "lookae.com",
@@ -10,6 +11,7 @@
     },
     {
       "domain_suffix": [
+        ".app.tapnow.ai",
         ".cgown.com",
         ".cgzy.net",
         ".lookae.com",

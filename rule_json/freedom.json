@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "app.klingai.com",
         "jable.tv",
         "javbus.com",
         "javdb.com",
@@ -16,6 +17,7 @@
     },
     {
       "domain_suffix": [
+        ".app.klingai.com",
         ".jable.tv",
         ".javbus.com",
         ".javdb.com",

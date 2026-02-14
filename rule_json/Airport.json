@@ -2,11 +2,13 @@
   "rules": [
     {
       "domain": [
+        "fg111.nxxbbf",
         "ncloud.info"
       ]
     },
     {
       "domain_suffix": [
+        ".fg111.nxxbbf",
         ".ncloud.info"
       ]
     }
